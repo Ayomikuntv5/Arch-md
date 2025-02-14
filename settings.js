@@ -25,7 +25,7 @@ global.packname = 'Arch Md ²⁵'
 
 global.tempatDB = 'database.json' // dont change might cause big errors 
 global.pairing_code = false // if deploying on panel set true if on any other platform leave it false
-global.startup = false
+global.startup = true
 
 // Settings Image Url
 global.image = {
