@@ -12,7 +12,7 @@ const { version } = require("./package.json")
 
 
 //======= Change settings =======\\
-global.owner = "2347036214381"
+global.owner = "2347043871380"
 global.botname = "αrch md"
 global.ownername = "" //set bot owner name here 
 global.simbol = "♘"
@@ -25,7 +25,7 @@ global.packname = 'Arch Md ²⁵'
 
 global.tempatDB = 'database.json' // dont change might cause big errors 
 global.pairing_code = false // if deploying on panel set true if on any other platform leave it false
-global.startup = true
+global.startup = false
 
 // Settings Image Url
 global.image = {
